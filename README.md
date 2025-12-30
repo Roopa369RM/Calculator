@@ -41,7 +41,7 @@ calculator-Project/
 ---
 
 ## 📸 Screenshots
-(Add screenshots here if you want)
+[Calculator Screenshot](images/calculator.png)
 
 ---
 
