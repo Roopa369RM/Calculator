@@ -40,10 +40,6 @@ calculator-Project/
 
 ---
 
-## 📸 Screenshots
-[Calculator Screenshot](images/calculator.png)
-
----
 
 ## ✨ Future Improvements
 - Keyboard support
